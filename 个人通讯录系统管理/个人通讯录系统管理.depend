@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1482655616 source:d:\codeblocks\李辉\个人通讯录系统管理\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1482655616 source:d:\codeblocks\李辉\c\个人通讯录系统管理\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1482655616 source:d:\codeblocks\lihui\c\个人通讯录系统管理\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

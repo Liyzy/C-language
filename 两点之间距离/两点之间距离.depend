@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480398417 source:d:\codeblock\李辉\两点之间距离\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

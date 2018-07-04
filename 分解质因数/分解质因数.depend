@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479547001 source:d:\codeblock\李辉\分解质因数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

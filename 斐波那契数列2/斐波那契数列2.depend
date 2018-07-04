@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479541524 source:d:\codeblock\李辉\斐波那契数列2\main.c
+	<stdio.h>
+	<stdlib.h>
+
